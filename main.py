@@ -15,6 +15,7 @@ def multiply(x, y):
 
 #Need to define divide function.
 def divide (x,y):
+    print x/y
     return x/y
 
 print("Calculator started.")
