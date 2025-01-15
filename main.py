@@ -11,7 +11,6 @@ def subtract(x, y):
 
 # This function multiplies two numbers
 def multiply(x, y):
-    print("multiply")
     return x * y
 
 #Need to define divide function.
