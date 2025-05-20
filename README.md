@@ -1,3 +1,3 @@
 # CAU_simpleCalc
  Simple Calculator project
-hello from 2nd version
+change from main and 2nd
